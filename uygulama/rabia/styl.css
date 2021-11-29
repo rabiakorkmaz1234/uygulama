@@ -1,0 +1,23 @@
+body {
+    background-image: url(https://picsum.photos/2150/1110);
+    background-repeat: no-repeat;
+}
+.container-fluid{
+
+    margin: 0px;
+}
+#giris{
+
+   margin-left: 14%;
+   margin-top: 30%;
+}
+#header{
+
+    text-align: center;
+    margin-bottom: 15px;
+}
+.nav-link{
+
+    color: white;
+    
+}
